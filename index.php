@@ -4,12 +4,14 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/estilos/style.css">
         <title>Index.php</title>
     </head>
     <body>
         <h2>Arquivos PHP</h2>
         <ol>
             <li><a href="./olamundo.php">Olá Mundo!</a></li>
+            <li><a href="./tiposVar.php">Tipos de variáveis.</a></li>
         </ol>
     </body>
 </html>
