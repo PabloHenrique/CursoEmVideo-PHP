@@ -1,8 +1,8 @@
 html {
-    font: 15pt Arial;
+    font: 12pt Arial;
 }
 body {
-    background: url("wallpaper-php.jpg") no-repeat top center fixed;
+    background: url("https://images5.alphacoders.com/774/thumb-1920-774369.jpg") no-repeat top center fixed;
     background-size: cover;
 }
 
@@ -42,4 +42,8 @@ a:hover {
 span.foco {
     font-weight: bold;
     color: #7e050c;
+}
+
+.titlemain{
+    color: white;
 }

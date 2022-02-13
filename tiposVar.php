@@ -11,13 +11,17 @@
         </style>
     </head>
     <body>
-        <h1>Tipos de variáveis no PHP</h1>
+        <h2 class="titlemain">Tipos de variáveis no PHP</h2>
         <div>
             <!-- Códigos PHP -->
             <?php
-                $n = 1;
-                $nome = "Pablo";
-                echo $nome;
+                $idade = 17;
+                $nome = (string)"Pablo";
+                /*>
+                    echo $nome;
+                    echo "<br>$idade";
+                */
+                echo "$nome tem $idade anos!";
             ?>
         </div>
     </body>
