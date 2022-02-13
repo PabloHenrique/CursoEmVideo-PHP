@@ -11,6 +11,8 @@
         <ol>
             <li><a href="./olamundo.php">Olá Mundo!</a></li>
             <li><a href="./tiposVar.php">Tipos de variáveis.</a></li>
+            <li><a href="./operadores.php">Operadores Aritméticos.</a></li>
+            <li><a href="./funcoesAritmeticas.php">Funções Aritméticas.</a></li>
         </ol>
     </body>
 </html>

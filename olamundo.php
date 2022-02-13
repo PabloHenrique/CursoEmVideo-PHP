@@ -16,8 +16,10 @@
         </style>
     </head>
     <body>
-        <h2 class="titlemain">Testando o PHP</h2>
-        <div>
+        <div class="informacoes">
+            <h2 class="titlemain">Testando o PHP</h2>
+        </div>
+        <div class="programa">
             <?php
                 echo "<h3>Olá Mundo!<h3>";
             ?>

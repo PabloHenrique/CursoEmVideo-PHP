@@ -6,7 +6,13 @@ body {
     background-size: cover;
 }
 
-div::before {
+.informacoes{
+    margin: 100px auto 100px auto;
+    width: 550px;
+    min-height:100px;
+}
+
+.programa::before {
     content: "";
     font: 10pt Arial;
     font-weight: bold;
@@ -20,7 +26,7 @@ div::before {
     width: 560px;
 }
 
-div {
+.programa {
     background-color: rgba(255,255,255,.8);
     margin: 100px auto 100px auto;
     padding: 10px;
@@ -46,4 +52,12 @@ span.foco {
 
 .titlemain{
     color: white;
+}
+
+.subtitle{
+    color: white;
+}
+
+span{
+    color: red;
 }

@@ -11,8 +11,10 @@
         </style>
     </head>
     <body>
-        <h2 class="titlemain">Tipos de variáveis no PHP</h2>
-        <div>
+        <div class="informacoes">
+            <h2 class="titlemain">Tipos de variáveis no PHP</h2>
+        </div>
+        <div class="programa">
             <!-- Códigos PHP -->
             <?php
                 $idade = 17;
