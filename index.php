@@ -14,5 +14,12 @@
             <li><a href="./operadores.php">Operadores Aritméticos.</a></li>
             <li><a href="./funcoesAritmeticas.php">Funções Aritméticas.</a></li>
         </ol>
+        <h2>Exercícios</h2>
+        <ol>
+            <li><a href="./exe01.php">Exercício 01</a></li>
+            <li><a href="./exe02.php">Exercício 02</a></li>
+            <li><a href="./exe03.php">Exercício 03</a></li>
+            <li><a href="./exe04.php">Exercício 04</a></li>
+        </ol>
     </body>
 </html>
