@@ -5,7 +5,30 @@ body {
     background: url("https://images5.alphacoders.com/774/thumb-1920-774369.jpg") no-repeat top center fixed;
     background-size: cover;
 }
+/*
+    Index.php
+*/
+.conteudo{
+    padding: 2%;
+    margin: 100px auto 100px auto;
+    width: 1000px;
+    background-color: white;
+    min-height: 400px;
+}
 
+.tabela{
+    width: 100%;
+    text-align: center;
+}
+
+.item{
+    width: 200px;
+    padding: 5%;
+    border: 1px solid black;
+}
+/*
+    Arquivos
+*/
 .informacoes{
     margin: 100px auto 100px auto;
     width: 550px;
