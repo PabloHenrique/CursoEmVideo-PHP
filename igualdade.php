@@ -12,13 +12,17 @@
     </head>
     <body>
         <div class="informacoes">
-            <h2 class="titlemain">Olá!</h2>
-            <h3 class="subtitle">.....</h3>
+            <h2 class="titlemain">Diferença entre == e ===</h2>
+            <h3 class="subtitle">Entendendo conceitos de igualdade e idêntico</h3>
         </div>
         <div class="programa">
             <!-- Códigos PHP -->
             <?php
-                
+                $a = 3; //int
+                $b = "3"; //string
+                $resultado = ($a === $b)? "Sim" : "Não"; //== igual ===idêntico
+
+                echo "As variáveis $a e $b são iguais?<br><br>$resultado";
             ?>
         </div>
     </body>
