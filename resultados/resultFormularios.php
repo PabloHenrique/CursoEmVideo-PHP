@@ -12,7 +12,7 @@
     </head>
     <body>
         <div class="informacoes">
-            <h2 class="titlemain">Olá!</h2>
+            <h2 class="titlemain">Resultados</h2>
             <h3 class="subtitle">.....</h3>
             <!-- Formulário
             <form action="../resultados/resultFormularios.php" method="get">
@@ -25,7 +25,10 @@
         <div class="programa">
             <!-- Códigos PHP -->
             <?php
-                
+                $name = $_GET["nome"];
+                $age = $_GET["idade"];
+            
+                echo "Olá $name, você tem $age anos!";
             ?>
         </div>
     </body>

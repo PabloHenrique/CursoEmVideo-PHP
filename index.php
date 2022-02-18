@@ -19,10 +19,9 @@
                     <td class="item"><a href="../conceitos/operadoresLogicos.php">Operadores Lógicos.</a></td>
                 </tr>
                 <tr>
-                    
-                    
                     <td class="item"><a href="./funcoesAritmeticas.php">Funções Aritméticas.</a></td>
                     <td class="item"><a href="./igualdade.php">Igualdade.</a></td>
+                    <td class="item"><a href="../conceitos/formularios.php">Formulários</a></td>
                 </tr>
             </table>
             <h2>Exercícios</h2>
