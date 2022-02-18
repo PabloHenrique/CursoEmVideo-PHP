@@ -12,15 +12,14 @@
     </head>
     <body>
         <div class="informacoes">
-            <h2 class="titlemain">Olá!</h2>
-            <h3 class="subtitle">.....</h3>
-            <!-- Formulário
-            <form action="../resultados/resultFormularios.php" method="get">
-                <h3 class="subtitle">Insira informação: <input type="text" class="dados" name="nome" placeholder="Exemplo: Pablo Henrique"></h3>
-                <h3 class="subtitle">Insira informação: <input type="number" class="dados" name="idade" placeholder="Exemplo: 17"></h3>
+            <h2 class="titlemain">Exercício 07</h2>
+            <h3 class="subtitle">Ler o nome, ano de nascimento, sexo.<br>Mostrar a idade da pessoa.</h3>
+            <form action="../resultados/resultExe07.php" method="get">
+                <h3 class="subtitle">Nome: <input type="text" class="dados" name="nome" placeholder="Exemplo: Pablo Henrique"></h3>
+                <h3 class="subtitle">Ano de Nascimento: <input type="number" class="dados" name="anoNasc" placeholder="Exemplo: 2004"></h3>
+                <h3 class="subtitle">Sexo: <input type="text" class="dados" name="sexo" placeholder="Exemplo: Masculino"></h3>
                 <input class="botao" type="submit" value="Registrar">
             </form>
-            -->
         </div>
         <div class="programa">
             <!-- Códigos PHP -->

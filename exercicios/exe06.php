@@ -12,15 +12,12 @@
     </head>
     <body>
         <div class="informacoes">
-            <h2 class="titlemain">Olá!</h2>
-            <h3 class="subtitle">.....</h3>
-            <!-- Formulário
-            <form action="../resultados/resultFormularios.php" method="get">
-                <h3 class="subtitle">Insira informação: <input type="text" class="dados" name="nome" placeholder="Exemplo: Pablo Henrique"></h3>
-                <h3 class="subtitle">Insira informação: <input type="number" class="dados" name="idade" placeholder="Exemplo: 17"></h3>
-                <input class="botao" type="submit" value="Registrar">
+            <h2 class="titlemain">Exercício 06</h2>
+            <h3 class="subtitle">Ler um valor e mostrar a sua raiz quadrada.</h3>
+            <form action="../resultados/resultExe06.php" method="get">
+                <h3 class="subtitle">Insira um valor: <input type="number" class="dados" name="valor" placeholder="Exemplo: 81"></h3>
+                <input class="botao" type="submit" value="Calcular">
             </form>
-            -->
         </div>
         <div class="programa">
             <!-- Códigos PHP -->

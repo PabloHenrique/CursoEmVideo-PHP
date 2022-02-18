@@ -33,6 +33,11 @@
                     <td class="item"><a href="../exercicios/exe04.php">Exercício 04</a></td>
                     <td class="item"><a href="../exercicios/exe05.php">Exercício 05</a></td>
                 </tr>
+                <tr>
+                    <td class="item"><a href="../exercicios/exe06.php">Exercício 06</a></td>
+                    <td class="item"><a href="../exercicios/exe07.php">Exercício 07</a></td>
+                    <td class="item"><a href="../exercicios/exe08.php">Exercício 08</a></td>
+                </tr>
             </table>
         </div>
     </body>
