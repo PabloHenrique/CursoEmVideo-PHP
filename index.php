@@ -22,7 +22,8 @@
                     <td class="item"><a href="./conceitos/funcoesAritmeticas.php">Funções Aritméticas.</a></td>
                     <td class="item"><a href="./conceitos/igualdade.php">Igualdade.</a></td>
                     <td class="item"><a href="./conceitos/formularios.php">Formulários</a></td>
-                    <td class="item"><a href="./conceitos/estruturaCondicional.php">Estruturas Condicionais.</a></td>
+                    <td class="item"><a href="./conceitos/estruturaCondicional.php">Estruturas Condicionais (IF)</a></td>
+                    <td class="item"><a href="./conceitos/estCondSwitch.php">Estruturas Condicionais (SWITCH)</a></td>
                 </tr>
             </table>
             <h2>Exercícios</h2>
@@ -39,6 +40,10 @@
                     <td class="item"><a href="./exercicios/exe07.php">Exercício 07</a></td>
                     <td class="item"><a href="./exercicios/exe08.php">Exercício 08</a></td>
                     <td class="item"><a href="./exercicios/exe09.php">Exercício 09</a></td>
+                    <td class="item"><a href="./exercicios/exe10.php">Exercício 10</a></td>
+                </tr>
+                <tr>
+                    <td class="item"><a href="./exercicios/exe11.php">Exercício 11</a></td>
                 </tr>
             </table>
         </div>

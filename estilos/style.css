@@ -109,3 +109,21 @@ span{
 select{
     font: 12pt Helvetica;
 }
+
+.infoTabela{
+    color: white;
+    border: 1px solid silver;
+    border-radius: 15px;
+    padding: 2%;
+    width: 150px;
+}
+
+.col2{
+    padding-left: 50%;
+}
+
+.note{
+    font-size: 10pt;
+    color: red;
+    padding-top: 40px;
+}

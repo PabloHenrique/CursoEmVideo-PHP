@@ -12,7 +12,7 @@
     </head>
     <body>
         <div class="informacoes">
-            <h2 class="titlemain">Estrutura Condicional</h2>
+            <h2 class="titlemain">Estrutura Condicional - Parte 1</h2>
             <h3 class="subtitle">Ler o ano de nascimento de uma pessoa.<br>Mostrar se ela pode votar e dirigir.</h3>
             <form action="../resultados/resultEst_Condicional.php" method="get">
                 <h3 class="subtitle">Informe o ano você nasceu: <input type="number" class="dados" name="anoNasc" placeholder="Exemplo: 2004"></h3>
