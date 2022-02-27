@@ -26,7 +26,7 @@
                 echo "<br><br>O novo preço com <strong>10% de aumento</strong> resulta em: R$", number_format($preco, 2, ",",".");
                 $preco = $preco - ($preco*10/100); //10% de desconto
                 echo "<br><br>O novo preço com <strong>10% de desconto</strong> resulta em: R$", number_format($preco, 2, ",",".");
-            ?>
+            ?>  
         </div>
     </body>
 </html>

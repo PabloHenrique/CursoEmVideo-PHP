@@ -12,7 +12,7 @@
     </head>
     <body>
         <div class="informacoes">
-            <h2 class="titlemain">Estruta Condicional - Parte 2</h2>
+            <h2 class="titlemain">Estrutura Condicional - Parte 2</h2>
             <form action="../resultados/resultEstCondSwitch.php" method="get">
                 <h3 class="subtitle">Insira um número: <input type="text" class="dados" name="num" placeholder="Exemplo: 5"></h3>
                 <h3 class="subtitle">Insira outro número: <input type="text" class="dados" name="num2" placeholder="Exemplo: 4"></h3>
@@ -28,12 +28,6 @@
                 </h3>
                 <input class="botao" type="submit" value="Registrar">
             </form>
-        </div>
-        <div class="programa">
-            <!-- Códigos PHP -->
-            <?php
-                
-            ?>
         </div>
     </body>
 </html>

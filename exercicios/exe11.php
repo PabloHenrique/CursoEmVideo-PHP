@@ -49,11 +49,5 @@
                 <input class="botao" type="submit" value="Analisar">
             </form>
         </div>
-        <div class="programa">
-            <!-- Códigos PHP -->
-            <?php
-                
-            ?>
-        </div>
     </body>
 </html>

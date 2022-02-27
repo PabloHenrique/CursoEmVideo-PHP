@@ -19,11 +19,5 @@
                 <input class="botao" type="submit" value="Calcular">
             </form>
         </div>
-        <div class="programa">
-            <!-- Códigos PHP -->
-            <?php
-                
-            ?>
-        </div>
     </body>
 </html>

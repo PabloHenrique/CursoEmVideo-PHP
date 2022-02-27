@@ -21,13 +21,18 @@
                 $num = $_GET["num"];
                 $inter = $_GET["inter"];
                 $c = 0;
-
-                echo "<strong>Valor solicitado: $num<br><br></strong>";
-                echo "Iniciando contagem<br>...<br>";
-                while($num >= $c){
-                    echo $c;
-                    $c = $c + $inter;
-                    echo "<br>";
+                if(($num) && ($inter)){
+                    echo "<strong>Valor solicitado: $num<br><br></strong>";
+                    echo "Iniciando contagem<br>...<br>";
+                    while($num >= $c){
+                        echo $c;
+                        $c = $c + $inter;
+                        echo "<br>";
+                    }
+                }
+                else{
+                    echo "Não foi possível contar!";
+                    echo "<br>Tente novamente inserindo valores válidos!";
                 }
                 echo "<br><br><a href='../exercicios/exe12.php'>Voltar</a>";
             ?>

@@ -26,7 +26,7 @@
                     <td class="item"><a href="./conceitos/estCondSwitch.php">Estruturas Condicionais (SWITCH)</a></td>
                 </tr>
                 <tr>
-                <td class="item"><a href="./conceitos/estruturaWhile.php">Estrutura de Repetição (WHILE)</a></td>
+                    <td class="item"><a href="./conceitos/estruturaWhile.php">Estrutura de Repetição (WHILE)</a></td>
                 </tr>
             </table>
             <h2>Exercícios</h2>
@@ -48,6 +48,7 @@
                 <tr>
                     <td class="item"><a href="./exercicios/exe11.php">Exercício 11</a></td>
                     <td class="item"><a href="./exercicios/exe12.php">Exercício 12</a></td>
+                    <td class="item"><a href="./exercicios/exe13.php">Exercício 13</a></td>
                 </tr>
             </table>
         </div>

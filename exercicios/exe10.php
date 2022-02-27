@@ -52,11 +52,5 @@
                 <input class="botao" type="submit" value="Verificar">
             </form>
         </div>
-        <div class="programa">
-            <!-- Códigos PHP -->
-            <?php
-                
-            ?>
-        </div>
     </body>
 </html>

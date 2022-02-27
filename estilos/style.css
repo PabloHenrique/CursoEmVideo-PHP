@@ -2,7 +2,7 @@ html {
     font: 12pt Arial;
 }
 body {
-    background: url("https://images5.alphacoders.com/774/thumb-1920-774369.jpg") no-repeat top center fixed;
+    background: url("../assets/fundo.jpg") no-repeat top center fixed;
     background-size: cover;
 }
 /*
@@ -74,11 +74,11 @@ span.foco {
 }
 
 .titlemain{
-    color: white;
+    color: black;
 }
 
 .subtitle{
-    color: white;
+    color: rgb(119, 119, 119);
     width: 100%;
 }
 
